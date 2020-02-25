@@ -1,2 +1,2 @@
 # Accesibilidad
-Recursos docentes sobre accesibilidad web y de aplicaciones para dispositivos móviles (apps).
+Recursos docentes sobre accesibilidad de aplicaciones web, accesibilidad de aplicaciones para dispositivos móviles (apps) y accesibilidad en la educación.
