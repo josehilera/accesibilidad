@@ -1,5 +1,7 @@
 # Aplicación EN301549
-![](EN301549.jpg)
+![Pantalla principal de la aplicación](EN301549.jpg)  
+
+
 Con esta aplicación para Android se pueden revisar requisitos de accesibilidad establecidos en la norma EN 301 549, para los que es difícil encontrar en el mercado aplicaciones móviles en las que sean aplicables.
 Concretamente los siguientes requisitos:
 - 5.2 Activación de características de accesibilidad
